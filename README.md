@@ -4,13 +4,6 @@
 
 Examples of many different ways to document in markdown, starting with an index of this project's contents:
 
-- [Sample Development Workflow][]
-- [Wine Making Made Easy][]
-- [Cheap Home Staging][]
+- [View Published Site][]
 
-
-[Sample Development Workflow]: /docs/development-workflow.md
-[Wine Making Made Easy]: /docs/wine-making-made-easy.md
-[Cheap Home Staging]: /docs/cheap-home-staging.md
-
-
+[View Published Site]: https://kimdomenick.github.io/docs-as-code-samples/
