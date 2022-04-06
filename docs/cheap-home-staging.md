@@ -1,6 +1,6 @@
 # Cheap home staging
 
-**A sample instructional doc with lots of markdown**
+**A sample instructional doc with lots of markdown and pictures**
 
 Staging
 : The process of making a home more appealing when trying to sell.  Staging usually involves cleaning, decluttering, furnishing, and decorating.  To understand why staging is important, read [this article by the National Association of Realtors](https://www.nar.realtor/research-and-statistics/research-reports/profile-of-home-staging). 
@@ -68,3 +68,5 @@ Pinterest is full of inspiration for taking common household items and transform
 
 Fill a vase with wine corks
 Take ugly wall art and paint over it or cover it with shelf paper patterned after old floorboards
+
+![vintage bathroom](https://www.fijiggle.com/sites/default/files/design/vintagebath4.png)
