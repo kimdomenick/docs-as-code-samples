@@ -9,6 +9,6 @@ Examples of different ways to document in markdown, starting with an index of th
 - [Cheap Home Staging][]
 
 
-[Sample Development Workflow]: /docs/development-workflow.md
-[Wine Making Made Easy]: /docs/wine-making-made-easy.md
-[Cheap Home Staging]: /docs/cheap-home-staging.md
+[Sample Development Workflow]: /docs-as-code-samples/development-workflow.html
+[Wine Making Made Easy]: /docs-as-code-samples/wine-making-made-easy.html
+[Cheap Home Staging]: /docs-as-code-samples/cheap-home-staging.html
