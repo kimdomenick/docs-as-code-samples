@@ -1,6 +1,6 @@
 # Cheap home staging
 
-**A sample instructional doc with lots of markdown and pictures**
+**A sample instructional article with lots of markdown and pictures**
 
 
 Staging
@@ -72,7 +72,8 @@ This is also an opportunity to purchase a few new items to keep and use in the n
 
 Decorate the eye-attracting areas:
 * **Bookshelves** – keep a minimal number of books and add a candle, vase or generic photo 
-* **Fireplace mantles** – add bold, framed wall art, along with minimal knick-knacks
+* **Fireplace mantles** – add bold, framed wall art, along with minimal knick-knacks, consider holiday-specific decor depending on the time of year
+![holiday decorated fireplace mantle](https://www.fijiggle.com/sites/default/files/inline-images/fireplace.jpg)
 * **Bathroom counters** – keep minimal, generic bathroom products, like hand-soap and hand towel, add a vase with faux foliage (or real flowers, if available)
 ![bathroom counter with minimal accessories](https://www.fijiggle.com/sites/default/files/design/vintagebath4.png)
 * **Bathrooms in general** – hang nice towels on towel racks, purchase and hang new shower curtains, add relaxing touches around a tub (if applicable)
@@ -88,7 +89,7 @@ Are there wall or other areas that seem _empty_?  Don't spend money to _purchase
 
 [Pinterest](https://www.pinterest.com/) is full of inspiration for taking common household items and transforming them.
 
-* Fill a vase with wine corks
+* Fill a vase or decorative basket with wine corks
 * Take ugly wall art and paint over it or cover it with shelf paper patterned after old floorboards
 * If the weather/season allows, give old flowerpots a facelift with spray paint or texture
 ![flower pots refinished with seashells](https://www.fijiggle.com/sites/default/files/design/Plants1.png)

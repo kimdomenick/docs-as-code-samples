@@ -1,8 +1,8 @@
-# Docs-as-code Samples
+# Markdown and docs-as-code Samples
 
-**A repository with docs-as-code and markdown samples**
+**A repository with markdown samples published using Github Pages**
 
-Examples of many different ways to document in markdown, starting with an index of this project's contents:
+This project includes a hodge podge of markdown examples, from developer documentation to cooler stuff like wine making. Markdown pages are published as a site through Github Pages. 
 
 - [View Published Site][]
 
