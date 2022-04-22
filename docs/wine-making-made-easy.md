@@ -1,8 +1,9 @@
 # Wine making FAQ
 
-**A sample FAQ with expandable sections, using a fun subject - wine making!**
+**A sample FAQ, using a fun subject - wine making!**
 
-<details><summary>I want to make wine.  What's the first thing I should do?</summary>
+<details><summary>
+I want to make wine.  What's the first thing I should do?</summary>
 
 **Start by reading.**  There are many resources available for new winemakers.  Some suggested reading/viewing:
 
