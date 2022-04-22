@@ -1,8 +1,8 @@
-# Wine making FAQ
+## Wine making FAQ
 
 **A sample FAQ, using a fun subject - wine making!**
 
-## I want to make wine.  What's the first thing I should do?
+### I want to make wine.  What's the first thing I should do?
 
 **Start by reading.**  There are many resources available for new winemakers.  Some suggested reading/viewing:
 
@@ -13,7 +13,7 @@
 * [Wine Maker Magazine](https://winemakermag.com/)
 
 
-## What basic equipment do I need to get started?
+### What basic equipment do I need to get started?
 
 In addition to ingredients, specialized wine-making tools and equipment are necessary to get started.  A hydrometer, glass carboys, and airlocks are just a few.  The easiest way to get all of the necessary equipment at once is to purchase a starter kit.
 
@@ -21,35 +21,41 @@ In addition to ingredients, specialized wine-making tools and equipment are nece
 
 Here are [some additional kits for 1 gallon winemaking](https://www.midwestsupplies.com/collections/small-batch-wine-making-kit) available at Midwest Supplies.
 
-## What additional equipment should I consider?
+### What additional equipment should I consider?
 
-**Invest in a good corker.**  
+**Invest in a good corker.**
+
 Bottling and corking finished wine is nearly impossible using cheap, hand-held corkers.  Most hobby wine makers recommend a floor model such as this one:
 [Floor model wine corker](https://www.homebrewit.com/products/portuguese-floor-corker)
 
-**Consider a wine filtration system.**  
+**Consider a wine filtration system.**
+
 To get the clearest wine, filtration is necessary.  [Electric filtration systems for larger volumes of wine](https://wineloversonline.com/products/filter-machine?currency=USD) use an electric pump system.  For smaller batches a [gravity-fed filtration system](https://labelpeelers.com/equipment/pumps-and-filters/monsterbrite-plate-filter-gravity-flow/) is sufficient.   
 
-**Upgrade to 1+1 corks.** 
+**Upgrade to 1+1 corks.**
+
 The corks that come with starter kits are often the cheapest corks available.  They may not be rated for longer than 6-9 months in a bottle and can begin to leak even before that. 1+1 corks provide longer wine aging times and superior sealing. There are [multiple grades of 1+1 corks](https://www.widgetco.com/11-wine-corks) available.
 
-## What is the easiest wine to make?
+### What is the easiest wine to make?
 
 [Traditional grape wine recipe kits](https://www.midwestsupplies.com/collections/winexpert-wine-recipe-kits) are easy, because they come with wine-quality juice that doesn't require additional sugar.  These kits also include wine yeast, refining agents, and instructions. Choose a style you like and drink on a regular basis so that the end results can be compared to a familiar style or brand.  
 
-## What is the hardest wine to make?
+### What is the hardest wine to make?
 In terms of effort, these wines require more gathering and preparation time than those make with grape juice:
 
 **Floral wines**
+
 Floral wines, like those made with Honeysuckle or Dandelion take a lot of time to gather and prepare.  Flowers have to be picked and individually trimmed to remove everything but the petals.  Petals are then typically used to make a "tea" which may need to steep for several days before the fermentation process can be started.  Additionally, floral ingredients do not contain enough sugar on their own to create a good wine.  Sugar or simple syrup has to be added.  After fermentation, the fermented tea has be strained and racked multiple times before all petals are removed.
 
 **Fruit wines made with real fruit**
+
 Peach, pear, melon, and berry wines need prep time for washing, peeling, and chopping.  Additionally, these types of fruit do not contain enough sugar on their own to create a good wine.  Sugar or simple syrup has to be added.  If wild ingredients, like wild raspberries or blackberries, are used, gathering time can be lengthy.  It may take multiple days to gather enough wild ingredients for a single 1 gallon batch of wine.
 
 **Dry red wines**
+
 Commercial dry reds use high quality grapes which are often aged for long periods of time in oak barrels.  A similar wine is difficult to reproduce at home, even with a good wine ingredient kit and oak chips. Extensive aging in the bottle, like 2-5 years may be required before an at-home dry red develops the right flavors to compare to that of a commercial winery.   
 
-## Can I make wine from bottled juice purchased in the grocery store?
+### Can I make wine from bottled juice purchased in the grocery store?
 
 Yes!  An inexpensive alternative to wine ingredient kits is bottled grape juice from the grocery store. This can be grape, or any other fruit juice, as long as it's 100% juice.
 
@@ -57,13 +63,13 @@ Test the amount of sugar in the juice with a hydrometer. Sugar or simple syrup w
 
 The only downside of bottled juice is that it won't come with the additional ingredients needed to make wine.  Keep a supply of wine yeast, refining agents and additives on hand to use with bottled juice.
 
-## Can I reuse old wine bottles when I bottle my own wine?
+### Can I reuse old wine bottles when I bottle my own wine?
 
 Yes!  After finishing a bottle of wine, soak it in warm water with a mild dish detergent.  Remove the existing label with a razor blade.  Allow the bottle to dry thoroughly.  When your own wine is ready to bottle, sanitize bottles with your favorite surface sanitizer.  
 
 Bottles can be used over an over again, as long as they are not cracked or damaged.
 
-## What's one important piece of advice for new wine makers?
+### What's one important piece of advice for new wine makers?
 
 **Keep a journal.**  
 
