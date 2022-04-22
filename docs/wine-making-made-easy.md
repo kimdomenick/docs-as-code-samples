@@ -1,4 +1,4 @@
-# Wine making made easy
+# Wine making FAQ
 
 **A sample FAQ with expandable sections, using a fun subject - wine making!**
 
@@ -32,10 +32,6 @@ Here are [some additional kits for 1 gallon winemaking](https://www.midwestsuppl
 **Consider a wine filtration system.**  To get the clearest wine, filtration is necessary.  [Electric filtration systems for larger volumes of wine](https://wineloversonline.com/products/filter-machine?currency=USD) use an electric pump system.  For smaller batches a [gravity-fed filtration system](https://labelpeelers.com/equipment/pumps-and-filters/monsterbrite-plate-filter-gravity-flow/) is sufficient.   
 
 **Upgrade to 1+1 corks.** The corks that come with starter kits are often the cheapest corks available.  They may not be rated for longer than 6-9 months in a bottle and can begin to leak even before that. 1+1 corks provide longer wine aging times and superior sealing. There are [multiple grades of 1+1 corks](https://www.widgetco.com/11-wine-corks) available.
-
-</details>
-
-<details><summary>What basic ingredients do I need to get started</summary>
 
 </details>
 
