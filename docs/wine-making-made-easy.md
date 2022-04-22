@@ -1,10 +1,12 @@
-## Wine making FAQ
+## Beginner wine making FAQ
 
 **A sample FAQ, using a fun subject - wine making!**
 
-### I want to make wine.  What's the first thing I should do?
+### How can I get started making wine at home?
 
-**Start by reading.**  There are many resources available for new winemakers.  Some suggested reading/viewing:
+**Start by reading.**  
+
+There are many resources available for new winemakers.  Here are some suggested reading/viewing options:
 
 * [Midwest Supplies How-to-Guide](https://www.midwestsupplies.com/blogs/bottled-knowledge/how-to-make-wine)
 * [City Steading Brews Winemaking 101 video](https://www.youtube.com/watch?v=T3I0v6_L-Rg)
@@ -13,13 +15,13 @@
 * [Wine Maker Magazine](https://winemakermag.com/)
 
 
-### What basic equipment do I need to get started?
+### What basic equipment do I need?
 
-In addition to ingredients, specialized wine-making tools and equipment are necessary to get started.  A hydrometer, glass carboys, and airlocks are just a few.  The easiest way to get all of the necessary equipment at once is to purchase a starter kit.
+In addition to ingredients, specialized wine-making tools and equipment are necessary to get started.  A hydrometer, glass carboys, and airlocks are just a few.  The easiest way to get all of the necessary equipment at once is to purchase a wine making equipment kit.
 
-[Kits like this one](https://www.midwestsupplies.com/products/master-vintnerr-fresh-harvestr-fruit-winemaking-kit) come with basic equipment plus all of the ingredients to make one batch of wine.  
+[Kits like this one](https://www.midwestsupplies.com/products/master-vintnerr-fresh-harvestr-fruit-winemaking-kit) come with basic tools plus all of the ingredients to make one batch of wine.  
 
-Here are [some additional kits for 1 gallon winemaking](https://www.midwestsupplies.com/collections/small-batch-wine-making-kit) available at Midwest Supplies.
+Here are [some additional kits for 1 gallon winemaking](https://www.midwestsupplies.com/collections/small-batch-wine-making-kit).
 
 ### What additional equipment should I consider?
 
@@ -41,15 +43,15 @@ The corks that come with starter kits are often the cheapest corks available.  T
 [Traditional grape wine recipe kits](https://www.midwestsupplies.com/collections/winexpert-wine-recipe-kits) are easy, because they come with wine-quality juice that doesn't require additional sugar.  These kits also include wine yeast, refining agents, and instructions. Choose a style you like and drink on a regular basis so that the end results can be compared to a familiar style or brand.  
 
 ### What is the hardest wine to make?
-In terms of effort, these wines require more gathering and preparation time than those make with grape juice:
+In terms of effort, floral and real fruit wines require more gathering and preparation time than those make with grape juice.  However, dry red wines are difficult to make at home for different reasons. 
 
 **Floral wines**
 
-Floral wines, like those made with Honeysuckle or Dandelion take a lot of time to gather and prepare.  Flowers have to be picked and individually trimmed to remove everything but the petals.  Petals are then typically used to make a "tea" which may need to steep for several days before the fermentation process can be started.  Additionally, floral ingredients do not contain enough sugar on their own to create a good wine.  Sugar or simple syrup has to be added.  After fermentation, the fermented tea has be strained and racked multiple times before all petals are removed.
+Floral wines, like those made with Honeysuckle or Dandelion take a lot of time to gather and prepare.  Flowers have to be picked and individually trimmed to remove everything but the petals.  Petals are then made into a "tea" which steeps for several days before the fermentation process is started.  Additionally, floral ingredients do not contain enough sugar on their own to create a good wine.  Sugar or simple syrup must be added.  After fermentation, the fermented tea must be strained and racked multiple times before all petals are removed.
 
 **Fruit wines made with real fruit**
 
-Peach, pear, melon, and berry wines need prep time for washing, peeling, and chopping.  Additionally, these types of fruit do not contain enough sugar on their own to create a good wine.  Sugar or simple syrup has to be added.  If wild ingredients, like wild raspberries or blackberries, are used, gathering time can be lengthy.  It may take multiple days to gather enough wild ingredients for a single 1 gallon batch of wine.
+Peach, pear, melon, and berry wines need prep time for washing, peeling, and chopping.  Additionally, these types of fruit do not contain enough sugar on their own to create a good wine.  Sugar or simple syrup must be added.  If wild ingredients, like wild raspberries or blackberries, are used, gathering time can be lengthy.  It can take multiple days to gather enough wild ingredients for a single 1 gallon batch of wine.
 
 **Dry red wines**
 
