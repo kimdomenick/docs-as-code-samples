@@ -23,7 +23,7 @@ In addition to ingredients, specialized wine-making tools and equipment are nece
 
 Here are [some additional kits for 1 gallon winemaking](https://www.midwestsupplies.com/collections/small-batch-wine-making-kit).
 
-### What additional equipment should I consider?
+### What specialized equipment should I consider?
 
 **Invest in a good corker.**
 
@@ -55,7 +55,7 @@ Peach, pear, melon, and berry wines need prep time for washing, peeling, and cho
 
 **Dry red wines**
 
-Commercial dry reds use high quality grapes which are often aged for long periods of time in oak barrels.  A similar wine is difficult to reproduce at home, even with a good wine ingredient kit and oak chips. Extensive aging in the bottle, like 2-5 years may be required before an at-home dry red develops the right flavors to compare to that of a commercial winery.   
+Commercial dry reds use high quality grapes which are often aged for long periods of time in oak barrels.  A similar wine is difficult to reproduce at home, even with a good wine ingredient kit and oak chips. Extensive aging in the bottle, up to 2-5 years, may be required before an at-home dry red develops the right flavors to compare to that of a commercial winery.   
 
 ### Can I make wine from bottled juice purchased in the grocery store?
 
