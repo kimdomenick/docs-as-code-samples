@@ -1,6 +1,6 @@
 ## Beginner wine making FAQ
 
-**A sample FAQ, using a fun subject - wine making!**
+**This FAQ answers common questions about home wine making so that new wine makers can identify ingredients, tools and processes to get started quickly.**
 
 ### How can I get started making wine at home?
 
